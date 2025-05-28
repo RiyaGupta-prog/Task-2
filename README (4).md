@@ -14,12 +14,12 @@ Python
 pandas – data manipulation
 matplotlib & seaborn – data visualization
 numpy – numeric operations (optional)
-Jupyter Notebook (recommended for step-by-step exploration)
+Jupyter Notebook (recommended for step-by-step exploration), Google Colab 
 
 📁 Files
 Titanic-Dataset.csv – the dataset used for analysis
-titanic_eda.ipynb – main notebook for all EDA steps
-README.md – project overview
+README(4).md – project overview
+AI.ML.ipynb - Jupyter Notebook of Titanic-Dataset.csv
 
 📈 Visuals Included
 Histograms for Age, Fare, SibSp, Parch
@@ -42,4 +42,4 @@ pip install pandas matplotlib seaborn
 Run the notebook in Jupyter or any Python environment
 
 Modify and explore your own hypotheses!
-
+If any issue occur in downloading then the AI.ML.txt - This file contains the code of AI.ML.ipynb
